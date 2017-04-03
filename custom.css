@@ -1,0 +1,32 @@
+/* 通用設定 */
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px dotted #333;
+    margin: 1em 0;
+    padding: 0; 
+}
+.ts-row .container{ width:937px}
+
+/* 主視覺 */
+.ts-header .container .row div { text-align:center; padding:initial }
+
+/* title row */
+.ts-row2 .row div { height:121px; background:#fff57a}
+
+/* news, counter */
+.ts-row3 .container {padding-bottom: 20px ;background:#fff57a}
+.ts-row3 .row div { height:84px; background:#fff57a}
+.ts-row3 li { list-style-type:none}
+
+/* 主選單 */
+.ts-row4 .container {background:#ffe21c}
+.ts-row4 .row {padding-right:25px}
+.ts-row4 li { list-style-type:none}
+
+/* 最新消息 */
+.ts-row5 .container {baackground:#fff; background-image:url("images/15th-TSAA_index_24.jpg")}
+.ts-row5 .container .row div { text-align:left; padding: 0 25px }
+.ts-row5 img {margin:12px 0 12px 0px}
+.ts-row5 img.read-more {margin:12px 0 }
