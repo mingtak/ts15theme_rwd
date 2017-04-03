@@ -54,7 +54,54 @@ hr {
 #ts-row8 .row div.show-img {text-align: center}
 
 #ts-row9 .row div {max-width: 100%; overflow: hidden; padding:0}
-#ts-row9 .row div img { width: 100% }
+#ts-row9 .row div img { width: 100%; height:68px; padding-right:50px }
+
+/* 國際決審會客室 */
+#ts-row10 .title-img img { margin: 20px 0 30px 30px}
+#ts-row10 .row.odd {background-image:url("images/15th-TSAA_index_72.jpg"); padding:25px 0}
+#ts-row10 .row.even {background-image:url("images/15th-TSAA_index_73.jpg"); padding:25px 0}
+#ts-row10 .info { margin: 0 30px }
+
+/* 關於台新藝術獎 */
+#ts-row11 .row {padding-top:20px}
+#ts-row11 .col-md-5 { padding:0}
+#ts-row11 .top-img, #ts-row11 .bottom-img { max-width:100%; overflow:hidden}
+#ts-row11 .r-detail { margin: 15px 0 }
+#ts-row11 .l-detail { margin: 15px 0; line-height:30px}
+
+/* 投票活動 */
+#ts-row12 .row { background-image:url("images/15th-TSAA_index_51.jpg"); padding: 20px 15px}
+#ts-row12 .award-img { max-width:100%; overflow:hidden; text-align:center}
+#ts-row12 .award-img img { width:85%; margin: 0 auto}
+#ts-row12 .title { text-align: center; font-weight: bold; font-size:20px}
+#ts-row12 .info { padding: 10px 30px; text-align:center; margin-bottom:15px }
+#ts-row12 p.poll-title { font-weight: bold; font-size:18px}
+#ts-row12 p.detail { margin: 20px 0 }
+#ts-row12 p.poll { margin: 0 20px }
+#ts-row12 p.counter { margin: 20px 20px; color:#aaa }
+#ts-row12 .poll-info { padding: 20px 20px}
+#ts-row12 .bottom { text-align: center}
+
+/* 頁腳 */
+#ts-row13 .row { padding:50px 30px 70px 50px}
+#ts-row13 .copyright { margin-top:30px; font-size:12px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
